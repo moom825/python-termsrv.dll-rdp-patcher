@@ -6,7 +6,7 @@ Install requirements :
 ```
 pip3 install -r requirements.txt or pip install -r requirements.txt
 ```
-Then if steps above were succesful after launching the python file by doing ```python patcher.py```
+Then if steps above were succesful after launching the python file by doing ```python patcher.py```\
 **Requirements:**\
 Python3, Windows
 
